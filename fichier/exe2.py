@@ -4,4 +4,4 @@ def cat(fich):
             print(ligne, end='')
 
 
-cat("./fichier/exe1.txt")
+cat("./fichier/data/exe1.txt")
